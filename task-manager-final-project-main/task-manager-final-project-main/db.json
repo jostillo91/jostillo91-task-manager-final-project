@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Plan project roadmap",
+      "description": "Outline milestones and deliverables for the next sprint.",
+      "status": "completed",
+      "priority": "high",
+      "dueDate": "2024-05-01",
+      "createdAt": "2024-04-15T08:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Design UI mockups",
+      "description": "Create Figma wireframes for the task management dashboard.",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2024-05-10",
+      "createdAt": "2024-04-18T10:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Implement authentication",
+      "description": "Add login and registration screens with form validation.",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2024-05-05",
+      "createdAt": "2024-04-20T09:45:00.000Z"
+    }
+  ]
+}
